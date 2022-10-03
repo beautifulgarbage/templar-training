@@ -1,0 +1,20 @@
+.table {
+    thead, &__head {
+        @apply uppercase font-sans text-gray-500 tracking-widest;
+    }
+    td {
+        @apply p-4;
+        &:first-child {
+            padding-left: 0;
+        }
+        &:last-child {
+            padding-right: 0;
+        }
+    }
+    tr {
+        @apply border-gray-500 border-b;
+        &:last-child {
+            @apply border-b-0;
+        }
+    }
+}

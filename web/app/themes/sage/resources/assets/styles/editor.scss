@@ -1,0 +1,10 @@
+/**
+ * Editor
+ */
+
+.editor-styles-wrapper > * {
+  @import 'common';
+  @import 'components';
+
+  //font-family: $font-family-base;
+}

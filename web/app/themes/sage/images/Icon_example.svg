@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="63px" viewBox="0 0 62 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <g id="Desktop-&amp;-Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1-HOME.DESKTOP" transform="translate(-1031.000000, -1584.000000)" fill="#00823D">
+            <g id="PRODUCT-FEATURES" transform="translate(129.000000, 1573.000000)">
+                <g id="Group-3" transform="translate(602.000000, 11.000000)">
+                    <g id="Group-6" transform="translate(300.000000, 0.000000)">
+                        <path d="M0,0 L0,63 L43.6403926,63 L46.2869939,63 L62,63 L62,0 L0,0 Z M3.87214724,59.0653988 L58.1278528,59.0653988 L58.1278528,3.93460123 L3.87214724,3.93460123 L3.87214724,59.0653988 Z" id="Fill-1"></path>
+                        <polygon id="Fill-2" points="20 34 25 34 25 29 20 29"></polygon>
+                        <polygon id="Fill-3" points="28 34 33 34 33 29 28 29"></polygon>
+                        <polygon id="Fill-4" points="37 34 42 34 42 29 37 29"></polygon>
+                        <path d="M11,16 L11,47.1106353 L25.3721731,47.1106353 L25.3721731,54 L32.3341913,47.1307841 L51,47.1098603 L51,16 L11,16 Z M30.2706421,44.4881819 L28.6627997,46.0745182 L28.6627997,43.7418986 L26.131432,43.7418986 L14.2906266,43.7418986 L14.2906266,19.3687366 L47.7093734,19.3687366 L47.7093734,43.7449985 L32.0245832,43.7620475 L31.0049204,43.7635974 L30.2706421,44.4881819 Z" id="Fill-5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+/**
+ * Global
+ */
+html{
+	scroll-behavior: smooth;
+}
+body {
+  @apply font-sans leading-normal;
+}
+.container {
+  @apply m-auto;
+}
+
+.main {
+  @apply w-4/6;
+}

@@ -1,0 +1,47 @@
+/*
+Header
+
+Global Header.
+
+Markup:
+<div class="bg-green pb-12" style="background: rgb(17,24,32);background: linear-gradient(164deg, rgba(17,24,32,1) 0%, rgba(0,121,65,1) 100%);">
+  <header class="header">
+    <div class="header__bumper">
+      <div class="header__bumper__inset">
+        <div class="container text-right py-2 pr-2">
+          GET IN TOUCH: 1-800-272-7637
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="flex items-center py-4">
+        <div class="lg:hidden w-1/2 text-left">
+          <img src="../dist/images/phone.svg" width="18" height="25" class="m-4" alt="Phone">
+        </div>
+        <div class="md:flex-shrink lg:text-left pl-2">
+          <a class="brand" href="http://domain.local/">
+            <img src="../dist/images/logo.svg" width="114" height="55" class="m-auto" alt="Logo">
+          </a>
+        </div>
+        <div class="lg:hidden w-1/2 text-right">
+          <img src="../dist/images/hamburger.svg" width="26" height="18" class="m-4 inline-block" alt="Hamburger">
+        </div>
+        <div class="header__nav">
+          <nav>
+              <ul class="-mr-2">
+                  <li><a href="#">WHO WE ARE</a></li>
+                  <li><a href="#">OUR VALUE</a></li>
+                  <li><a href="#">OUR PRODUCTS</a></li>
+                  <li><a href="#">WORK WITH US</a></li>
+                  <li><a href="#" class="button">Get in touch</a></li>
+              </ul>
+            </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+
+Styleguide Partials.Global._Header
+*/
+

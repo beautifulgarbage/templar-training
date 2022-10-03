@@ -1,0 +1,33 @@
+/*
+Default Buttons (on dark backgrounds)
+
+Standard default button suitable placed on dark backgrounds.
+
+Markup:
+<div class="bg-gray-900 p-12">
+  <a href="#0" class="button {{modifier_class}}">Link</a>
+  <button class="button  {{modifier_class}}">Button</button>
+</div>
+
+:disabled        - Disabled button style
+:hover           - Hover state for button
+
+Styleguide Components.Buttons.Default
+*/
+
+/*
+Secondary Buttons (on light backgrounds)
+
+Standard button suitable placed on dark backgrounds.
+
+Markup:
+<div class="bg-gray-200 p-12">
+  <a href="#0" class="button--secondary {{modifier_class}}">Link</a>
+  <button class="button--secondary {{modifier_class}}">Button</button>
+</div>
+
+:disabled        - Disabled button style
+:hover           - Hover state for button
+
+Styleguide Components.Buttons.Secondary
+*/
